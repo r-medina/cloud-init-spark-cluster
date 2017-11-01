@@ -1,0 +1,6 @@
+master-id_rsa
+master-id_rsa.pub
+slave-id_rsa
+slave-id_rsa.pub
+cloud-init-spark-cluster-slave.yaml
+cloud-init-spark-cluster-master.yaml
